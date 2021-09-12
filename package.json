@@ -1,0 +1,22 @@
+{
+  "name": "skooldio-homework-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w18oon/skooldio-homework-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w18oon/skooldio-homework-backend/issues"
+  },
+  "homepage": "https://github.com/w18oon/skooldio-homework-backend#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
